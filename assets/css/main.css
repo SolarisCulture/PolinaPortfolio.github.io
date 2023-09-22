@@ -119,6 +119,7 @@ input, select, textarea {
 .my_photo {
 	float: left;
     margin: 20px;
+	margin-right: 30px;
 	width: 40%;
 }
 
