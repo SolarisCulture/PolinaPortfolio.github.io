@@ -123,7 +123,10 @@ input, select, textarea {
 	width: 40%;
 }
 
-
+.small_pic{
+	margin: auto;
+	width: 60%;
+}
 
 /* Type */
 
